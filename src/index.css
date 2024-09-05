@@ -1,0 +1,49 @@
+body{
+  background-color:rgb(209, 202, 216);
+
+}
+.container{
+  background-color: white;
+  width: 500px;
+margin: 10% auto;
+border-radius: 10px;
+box-shadow: 0px 3px 4px  blue;
+padding: 20px;
+
+}
+
+h1{
+  text-align: center;
+  color: rgb(42, 173, 224);
+}
+
+
+.lengthdiv {
+    margin-bottom: 15px;
+  
+    
+}
+
+.lengthdiv label{
+  font-weight: bold;
+}
+
+.checkboxdiv{
+  margin-bottom: 10px;
+}
+.checkboxdiv input{
+ margin-right: 10px;
+} 
+
+button{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+.generatedpwd input{
+  padding: 8px;
+  margin-top: 10px;
+  width: 50%;
+  margin-right: 5px;
+}
